@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleks4409;
-- 👀 I’m interested in ReactJS, Windows forms;
-- 🌱 I’m currently learning ReactJS, Windows forms, C#;
-- 💞️ I’m looking to collaborate on simple React project;
+- 👀 I’m interested in Flutter, Windows forms;
+- 🌱 I’m currently learning Flutter, Windows forms, C#;
+- 💞️ I’m looking to collaborate on simple Flutter project;
 - 📫 How to reach me - e-mail: alekspy6@wp.pl;
 
 <!---
